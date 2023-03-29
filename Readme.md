@@ -1,4 +1,5 @@
-#RainWatcher
+#RainWatcher  
+
 This project aims to utilize recorded rainfall data from PAGASA to formulate a time series forecasting model.  
 
 
